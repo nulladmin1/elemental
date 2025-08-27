@@ -4,6 +4,9 @@
     "ghcr.io/devcontainers/features/nix:1": {
       "multiUser": true,
       "version": "latest"
+    },
+    "ghcr.io/devcontainers/features/rust:1": {
+      "profile": "complete"
     }
   }
 }
